@@ -8,7 +8,10 @@
 /// @author Creel Patrocinio <creel@hawaii.edu>
 /// @date   24_Apr_2022
 ///////////////////////////////////////////////////////////////////////////////
-#ifndef EE205_LAB13A_ANIMAL_FARM_3_WEIGHT_H
-#define EE205_LAB13A_ANIMAL_FARM_3_WEIGHT_H
+#pragma once
 
-#endif //EE205_LAB13A_ANIMAL_FARM_3_WEIGHT_H
+#include <string>
+#include "config.h"
+#include "Node.h"
+#include "Gender.h"
+#include "Weight.h"

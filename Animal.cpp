@@ -8,3 +8,9 @@
 /// @author Creel Patrocinio <creel@hawaii.edu>
 /// @date   24_Apr_2022
 ///////////////////////////////////////////////////////////////////////////////
+#include <cassert>
+#include <iostream>
+#include <stdexcept>
+#include <iomanip>
+#include "config.h"
+#include "Animal.h"

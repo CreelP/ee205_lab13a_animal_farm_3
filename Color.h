@@ -8,7 +8,3 @@
 /// @author Creel Patrocinio <creel@hawaii.edu>
 /// @date   24_Apr_2022
 ///////////////////////////////////////////////////////////////////////////////
-#ifndef EE205_LAB13A_ANIMAL_FARM_3_COLOR_H
-#define EE205_LAB13A_ANIMAL_FARM_3_COLOR_H
-
-#endif //EE205_LAB13A_ANIMAL_FARM_3_COLOR_H

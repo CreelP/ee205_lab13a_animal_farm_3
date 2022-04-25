@@ -8,11 +8,4 @@
 /// @author Creel Patrocinio <creel@hawaii.edu>
 /// @date   24_Apr_2022
 ///////////////////////////////////////////////////////////////////////////////
-#pragma once
-
-#include <string>
-#include "config.h"
-#include "Node.h"
-#include "Gender.h"
-#include "Weight.h"
 
